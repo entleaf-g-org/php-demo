@@ -9,4 +9,5 @@
 
 <?php
 include($_GET["page"]);
+include($_GET["page"]);
 ?>
